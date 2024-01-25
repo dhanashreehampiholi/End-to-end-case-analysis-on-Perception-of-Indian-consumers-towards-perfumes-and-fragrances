@@ -135,4 +135,62 @@ Cluster 1 – Premium customers
 
 ![img19](https://github.com/dhanashreehampiholi/trial/assets/57892263/bc8779f3-83b7-4a95-a381-30a6f4a47cb0)
 
+Premuim customers are a set of people who strongly believe that wearing Perfumes boosts their confidence. They use the perfumes on daily basis and their  average  monthly spending on perfumes is as high as Rs.3600.
+
+### Factor Analysis of Cluster 2:
+
+![img20](https://github.com/dhanashreehampiholi/trail/assets/57892263/4eb281e0-d4bb-4fa9-b23c-ef57c194b2d7)
+
+Factor Analysis on Correlation with 3 factors: 
+
+Cluster 2 – Standard customers
+
+![img21](https://github.com/dhanashreehampiholi/trail/assets/57892263/2e4efeea-a278-4cde-8cd3-e806208946ee)
+
+![img22](https://github.com/dhanashreehampiholi/trail/assets/57892263/1042d766-c61e-46a1-b4d2-634e3d028bfa)
+
+Standard customers represent a set of people who believe that wearing perfumes boost the confidence of individuals only under few circumstances. They use perfumes frequently(weekly, bi-weekly) but are not daily users Also the average spending of these customers is around Rs.600.
+
+### Factor Analysis of Cluster 3:
+
+![img23](https://github.com/dhanashreehampiholi/trail/assets/57892263/e8552cec-bd09-48fe-afdb-399cee9d8f73)
+
+Factor Analysis on Correlation with 2 factors: 
+
+Cluster 3- Economic customers
+
+![img24](https://github.com/dhanashreehampiholi/trail/assets/57892263/2229baf9-119c-4414-8198-3af503d655a1)
+
+![img25](https://github.com/dhanashreehampiholi/trail/assets/57892263/a4fe60fd-60df-4e1d-b8bb-54488eb08491)
+
+Economic customers represent a set of people who use perfumes seldomly or do not use at all. Their confidence is not affected by external factors(Perfumes and fragrances) and their average monthly spending is very less i.e. around Rs.250.
+
+## Model Building
+
+### Fit Y by X: For Premium customers
+
+![img26](https://github.com/dhanashreehampiholi/trail/assets/57892263/f1f4407d-68fe-4b49-9adc-f06ea8cc0957)
+
+![img27](https://github.com/dhanashreehampiholi/trail/assets/57892263/1b435ceb-fa0b-4876-8285-b7e99dd6f8b8)
+
+Inference: Since the ‘p’ value for Premium customers is not less than 0.05, the model is not a good fit.
+
+### Fit Y by X : Standard Customers
+
+![img28](https://github.com/dhanashreehampiholi/trail/assets/57892263/70a2cc40-ec24-46b6-80ff-21744c1af380)
+
+![img29](https://github.com/dhanashreehampiholi/trail/assets/57892263/be056f77-a151-4eab-a357-0d260e1bf690)
+
+Inference: Since the ‘p’ value for Standard customers is not less than 0.05, the model is not a good fit.
+
+### Fit Y by X : Economic Customers
+
+![img30](https://github.com/dhanashreehampiholi/trail/assets/57892263/b7c7f052-fc38-4575-9cc4-c3643c75209b)
+
+![img31](https://github.com/dhanashreehampiholi/trail/assets/57892263/5b291a4d-cb60-43bc-91af-d2b611fec36f)
+
+Inference: Since the ‘p’ value forEconomic customers is not less than 0.05,the model is not a good fit.
+
+## Findings:
+The consumers can be classified in 3 categories as Premium customers, Standard customers and Economic customers. Huge number of customers belong to Standard group. They spend in the range of Rs.600 to Rs.800 on the perfumes and are of neutral perception on the impact of perfumes on their confidence levels. Also it can be seen that univariate and bivariate analysis methods do not help in efficient model building.
 
