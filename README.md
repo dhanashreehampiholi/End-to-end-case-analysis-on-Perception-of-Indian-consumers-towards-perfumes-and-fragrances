@@ -193,5 +193,5 @@ Inference: Since the ‘p’ value for Standard customers is not less than 0.05,
 Inference: Since the ‘p’ value forEconomic customers is not less than 0.05,the model is not a good fit.
 
 ## Findings:
-The consumers can be classified in 3 categories as Premium customers, Standard customers and Economic customers. Huge number of customers belong to Standard group. They spend in the range of Rs.600 to Rs.800 on the perfumes and are of neutral perception on the impact of perfumes on their confidence levels. Also it can be seen that univariate and bivariate analysis methods do not help in efficient model building.
+The consumers can be classified in 3 categories as Premium customers, Standard customers and Economic customers. Huge number of customers belong to Standard group. They spend in the range of Rs.600 to Rs.800 on the perfumes and are of neutral perception on the impact of perfumes on their confidence levels. 
 
